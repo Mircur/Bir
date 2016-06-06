@@ -1,1 +1,1 @@
-print("U find star")
+print("U find star;")
